@@ -1,0 +1,4 @@
+Return-Path: <support@paypaI-security.com>
+Received: from unknown (HELO smtp.randomhost.com) (95.211.124.23)
+Authentication-Results: spf=fail; dkim=none; dmarc=fail
+From: PayPaI Support <support@paypaI-security.com>

@@ -1,0 +1,12 @@
+From: PayPaI Support <support@paypaI-security.com>
+Subject: Urgent: Your PayPal account is locked!
+
+Dear Customer,
+Your account has been temporarily suspended due to unusual activity.
+You must verify your identity within 24 hours to avoid permanent suspension.
+
+Verify now: https://paypal.com/security  
+(Real link redirects to: http://192.88.34.221/verify-login)
+
+Thank you,
+PayPal Security Team
